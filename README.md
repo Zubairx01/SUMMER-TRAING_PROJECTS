@@ -1,6 +1,6 @@
 # SUMMER-TRAING_PROJECTS
 THIS REPO CONTAINS PROJECTS FROM SUMMER TRAINING PROGRAM.
 
-# Project_2
+## Project_2
 Sales Data Analysis Power BI Dashboard.
 
